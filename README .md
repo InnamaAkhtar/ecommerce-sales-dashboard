@@ -61,7 +61,7 @@ The dashboard helps transform sales data into meaningful insights to support bet
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
 
 - GitHub: [InnamaAkhtar](https://github.com/InnamaAkhtar)
-- Project Repository: [View Ecommerce Sales Dashboard](https://github.com/InnamaAkhtar/YOUR-REPOSITORY-NAME)
+- Project Repository: [View Ecommerce Sales Dashboard](https://github.com/InnamaAkhtar/ecommerce-sales-dashboard/blob/main/Ecommerce_Sales_Dashboard.xlsx)
 
 ---
 
