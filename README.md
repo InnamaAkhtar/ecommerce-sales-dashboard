@@ -9,7 +9,7 @@ The dashboard helps transform sales data into meaningful insights to support bet
 
 ## 🖼️ Dashboard Preview
 
-![Ecommerce Sales Dashboard](images/ecommerce-sales-dashboard.png)
+![Ecommerce Sales Dashboard](https://github.com/InnamaAkhtar/ecommerce-sales-dashboard/blob/main/images.png.jpg)
 
 ## 🎯 Project Objectives
 
